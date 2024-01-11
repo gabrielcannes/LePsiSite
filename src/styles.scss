@@ -1,6 +1,11 @@
 /* You can add global styles to this file, and also import other style files */
+:root {
+    --fundo: #DBD3CA;
+  }
+
 * {
-    font-family: 'Inter', sans-serif;
+    font-family: 'Playfair Display', serif;
+    background-color: var(--fundo);
 }
 
 html, body, div, span, applet, object, iframe,
