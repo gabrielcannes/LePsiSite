@@ -16,5 +16,5 @@ export class HeaderComponent {
 
   constructor(){}
 
-  handleClick = () => window.location.href = 'https://wa.me/5551985508302?text=Gostaria%20de%20informa%C3%A7%C3%B5es%20sobre%20a%20psicoterapia%20online.%20';
+  handleClick = () => window.location.href = 'https://wa.me/5551990186517?text=Gostaria%20de%20informa%C3%A7%C3%B5es%20sobre%20a%20psicoterapia%20online.%20';
 }
